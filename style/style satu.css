@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.isian{
+    width: 25.7rem;
+    height: 29rem;
+    display: flex;
+    flex-direction:column;
+    margin: 0 auto;
+}
+.satu{
+    display: flex;
+    margin: 15rem 0 0 0 ;
+    justify-content: space-between;
+}
+img{
+    width: 5rem;
+    height: 5rem;
+}
+.gambar{
+    border: 1px solid;
+    /* margin: 0 auto; */
+}
+.dua{
+    display: flex;
+    margin: 0 0 0 0 ;
+    justify-content: space-evenly;
+    
+}
+.procy{
+    border: 1px solid;
+    /* margin: 0 auto; */
+}

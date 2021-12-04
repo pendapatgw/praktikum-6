@@ -1,0 +1,65 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.kulit{
+    background-color: salmon;
+    height: 150%;
+
+}
+header h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 2rem;
+    width: 95%;
+    height: 5rem;
+    display: inline-block;
+}
+aside h1{
+    background-color: rgb(61, 182, 182) ;
+    margin: 0 0 0 2rem;
+    width: 15rem;
+    height: 30rem;
+}
+article h1{  
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   margin: 18rem 0 0 0;
+}
+footer h1{
+    background-color: aqua;
+    display: inline-block;
+    text-align: center;
+    width: 95%;
+    height: 5rem;
+    margin: 2rem;
+}
+.isi{
+    display: flex;
+    /* margin: 0 0 2rem 0; */
+}
+article{
+    display: flex;
+    flex-direction: column;
+    border:1px solid;
+    background-color: rgb(182, 87, 76);
+    margin: 0 2rem 0 2rem;
+    width: 70rem;
+}
+.gambar{
+    display: flex;
+    justify-content: center;
+    
+}
+.foto{
+    background-color: gray;
+    width: 8rem;
+    height: 8rem;
+    display: flex;
+    margin: 0 3rem;
+    justify-content: center;
+    align-items: center;
+}
